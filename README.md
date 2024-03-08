@@ -16,7 +16,6 @@ Running the Simulation
 Execute the script from the command line:
 
 bash
-Copy code
 python lottery_scheduling.py
 Upon running, the script will:
 
